@@ -1,0 +1,20 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+build
+
+
+# idea config
+.idea
+
+# old stages
+/Simple Tic-Tac-Toe (Java)/*
+!/Simple Tic-Tac-Toe (Java)/task/
+/Simple Tic-Tac-Toe (Java)/task/*
+!/Simple Tic-Tac-Toe (Java)/task/src
+
+# Project exclude paths
+/Topics/Multidimensional array/Symmetric matrix/out/
+/Topics/Multidimensional array/Symmetric matrix/out/production/classes/
